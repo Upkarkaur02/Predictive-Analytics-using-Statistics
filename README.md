@@ -2,9 +2,10 @@
 Title: Credit Card Fraud Detection using Sampling Techniques and Machine Learning
 This project compares different sampling techniques for handling imbalanced data and evaluates model performance on a credit card fraud dataset.
 1. Methodology:
-        <img width="406" height="110" alt="Screenshot 2026-01-21 000252" src="https://github.com/user-attachments/assets/07e6fd60-3036-4a06-8566-708daa169b27" />
+   
+   <img width="406" height="110" alt="Screenshot 2026-01-21 000252" src="https://github.com/user-attachments/assets/07e6fd60-3036-4a06-8566-708daa169b27" />
 
-2. Description:
+3. Description:
    Input(Dataset used): Credit Card Fraud Detection Dataset
    - The dataset contains credit card transactions labeled as Fraud (1) and Non-Fraud (0).
    - It is a highly imbalanced dataset, where fraudulent transactions form a very small percentage of the total records.
